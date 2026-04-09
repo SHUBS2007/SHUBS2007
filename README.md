@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shubham Bhatti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate cloud security enginear</h3>
 
 <img align="right" alt="coding gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **networking**
 
 - eCommerce Website Web Design Interior Landing Page [Furniro](https://shubs2007.github.io/FURNIRO/)
 
