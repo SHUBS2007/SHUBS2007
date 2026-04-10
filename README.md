@@ -43,6 +43,3 @@
 To break into **Cloud Security before graduation** by building real-world skills and documenting everything.
 
 ---
-
-## 📌 Note
-This GitHub reflects my real journey from beginner → job-ready cybersecurity professional.
